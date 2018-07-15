@@ -1,4 +1,4 @@
-from setuptools import find_packages, setup, Command
+from setuptools import find_packages, setup
 import re
 
 # packages required for this module
